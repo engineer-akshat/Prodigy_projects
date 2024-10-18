@@ -1,5 +1,6 @@
 # Data Cleaning and Exploratory Data Analysis (EDA) on Titanic Dataset
 
+
 This project focuses on performing **data cleaning** and **exploratory data analysis (EDA)** on the Titanic dataset to uncover relationships between variables and identify patterns and trends in the data.
 
 ---
