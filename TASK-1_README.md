@@ -58,4 +58,4 @@ We can perform similar analysis in Python or R for advanced visualizations.
 Using Power BI or Tableau for interactive dashboards.
 
 # Author
-Akshat Soni
+*Akshat Soni*
