@@ -4,6 +4,7 @@ This project focuses on analyzing **traffic accident data** to uncover patterns 
 
 ---
 
+
 ## Dataset  
 - **Source**: [Kaggle - US Accident EDA](https://www.kaggle.com/code/harshalbhamare/us-accident-eda)  
 - **Description**: The dataset contains detailed information about traffic accidents across the United States, including weather conditions, road types, accident severity, and timestamps.  
