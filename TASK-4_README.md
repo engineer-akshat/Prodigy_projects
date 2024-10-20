@@ -4,6 +4,7 @@ This project focuses on analyzing and visualizing **sentiment patterns** in soci
 
 ---
 
+
 ## Dataset  
 - **Source**: [Kaggle Twitter Entity Sentiment Analysis](https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis)  
 - **Description**: The dataset contains tweets, along with corresponding sentiment labels (positive, negative, or neutral), and associated entities (e.g., people, organizations, or products).  
